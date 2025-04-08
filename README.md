@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E99EAD&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+%3A)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f0dcd4&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+%3A)" alt="Typing SVG" /></a>
   </a>
 </div>
 
@@ -12,14 +12,16 @@
     <img align="center"  alt="Python" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img align="center"  alt="javascript" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="c" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-</div><br>
+</div><br><br>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&theme=dracula&show_icons=true" />&nbsp;&nbsp;<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&hide_progress=true&theme=dracula"/>
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&theme=rose&show_icons=true" />&nbsp;&nbsp;<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&theme=rose&layout=compact"/>
+</div>
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=21c42c&color:FFF)](https://www.linkedin.com/in/martinsnathali)
 <div>
-<img align="right" alt="cat-gif" height="150" width="150" right="200" src="https://s6.gifyu.com/images/bMwfn.gif">
+<img align="right" alt="cat-gif" height="140" width="140" right="100" src="https://s6.gifyu.com/images/bMwfn.gif">
 </div>
 
 
