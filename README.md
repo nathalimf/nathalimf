@@ -14,7 +14,7 @@
     <img align="center" alt="c" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
 </div><br>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&show_icons=true&theme=chartreuse-dark"/><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&hide_progress=true&theme=chartreuse-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&theme=dracula&show_icons=true" />&nbsp;&nbsp;<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&hide_progress=true&theme=dracula"/>
 
 ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=21c42c&color:FFF)](https://www.linkedin.com/in/martinsnathali)
