@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f0dcd4&width=435&lines=Ol%C3%A1!+Seja+bem+vindo+%3A)" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=F0DCD4&width=435&lines=%E2%9C%A7%CB%96%C2%B0.+Ol%C3%A1!+Seja+bem-vindo!+%E2%9C%A7%CB%96%C2%B0." alt="Typing SVG" /></a>
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 </div>
           
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edws007//Edws007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Edws007//Edws007/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//Edws007//Edws007/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathalimf/nathalimf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathalimf/nathalimf/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nathalimf/nathalimf/output/github-contribution-grid-snake.svg">
 </picture>
