@@ -4,6 +4,8 @@
   </a>
 </div>
 
+#
+
 ### <span style="color:#bc9dd1">🖥️ Linguagens e Tecnologias</span>
 </div>
 <div>
