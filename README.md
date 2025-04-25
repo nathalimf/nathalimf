@@ -23,7 +23,7 @@
 ##
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinsnathali/)&nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:nathalimartinsferreira@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/naatrix_/))
+<a href="https://www.instagram.com/naatrix_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 <div>
 <img align="right" alt="cat-gif" height="140" width="140" right="100" src="https://s6.gifyu.com/images/bMwfn.gif">
 </div>
