@@ -17,8 +17,11 @@
 </div><br><br>
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&theme=rose&show_icons=true" />&nbsp;&nbsp;<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&theme=rose&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalimf&theme=rose&show_icons=true" />
+  &nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalimf&theme=rose&layout=compact"/>
 </div>
+
 
 ##
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinsnathali/)&nbsp;
@@ -33,8 +36,7 @@
 <div>
     <img align="center"  alt="replit" height="30" weight="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
     <img align="center"  alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-    <img align="center"  alt="vscode" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          
+    <img align="center"  alt="vscode" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />    
 </div>
           
 <picture align="center">
